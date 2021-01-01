@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    I'm Choyi from Korea 🇰🇷! <br> I'm currently a 23 y/o senior at Seoul National University of Science and Technology, majoring in CSE. Visit <a href="">here</a> to find out what i've done!
+    🇰🇷 <br> 
   </samp>
 </p>
 
