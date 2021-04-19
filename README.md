@@ -10,7 +10,7 @@
 
 
 
-![SWIFT](https://img.shields.io/static/v1?style=for-the-badge&logo=swift&message=SWIFT&label=&color=FA7343&labelColor=000000) ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=Javascript&label=&color=F7DF1E&labelColor=000000) ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node.js&label=&color=339933&labelColor=000000) ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000) ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=css3&message=CSS3&label=&color=1572B6&labelColor=000000)
+![SWIFT](https://img.shields.io/static/v1?style=for-the-badge&logo=swift&message=SWIFT&label=&color=FA7343&labelColor=000000) 
 
 ### 🧩 Tools i use
 
