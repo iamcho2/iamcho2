@@ -18,6 +18,10 @@
 
 <!-- 💎 Projects -->
 
+### 🍋 Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 🏄🏻‍♀️ Get in touch with me
 
 📧 Email : thecho2cho2@gmail.com
