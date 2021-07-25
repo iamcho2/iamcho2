@@ -21,10 +21,10 @@
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [앞으로 UITableView 쓰지 말라고?](https://iamcho2.github.io/2021/07/25/UICollectionView-or-UITableView-for-list)
+- [Github Action을 이용한 README 블로그 포스트 automation](https://iamcho2.github.io/2021/07/24/github-readme-blog-post-automation-using-github-action)
 - [Activity Indicator 추가하기](https://iamcho2.github.io/2021/07/14/activity-indicator)
 - [UserDefaults fcm token](https://iamcho2.github.io/2021/07/13/UserDefaults)
 - [Networking-5 : Moya](https://iamcho2.github.io/2021/07/10/Networking-5)
-- [Networking-4 : Alamofire](https://iamcho2.github.io/2021/07/08/Networking-4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏄🏻‍♀️ Get in touch with me
