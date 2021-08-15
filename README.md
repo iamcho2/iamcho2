@@ -24,11 +24,11 @@
 
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [String - Apple 공식 문서 읽기 (Swift)](https://iamcho2.github.io/2021/08/15/String-Apple-docs)
 - [JTAppleCalendar 캘린더 커스텀하기-1](https://iamcho2.github.io/2021/08/10/custom-calendar-with-JTAC)
 - [이미지를 global queue에서 받지 않으면 일어나는 충격적인 일](https://iamcho2.github.io/2021/08/05/fetch-image-in-global-queue)
 - [Moya parameters with same key](https://iamcho2.github.io/2021/08/04/moya-parameters-with-same-key)
 - [알고리즘을 위한 Swift 정리](https://iamcho2.github.io/2021/08/02/swift-for-algorithm)
-- [당근마켓 iOS 클론코딩 - 2. 검색 바 cell, dynamic width](https://iamcho2.github.io/2021/07/30/karrot-2-searchbar-cell)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏄🏻‍♀️ Get in touch with me
