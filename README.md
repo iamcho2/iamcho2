@@ -24,11 +24,11 @@
 
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Swift 문자, 문자열과 ASCII 코드](https://iamcho2.github.io/2021/08/19/Swift-ASCII-string-character)
+- [Swift 알고리즘 문제들을 풀면서 자주 찾게되는 것들](https://iamcho2.github.io/2021/08/18/Swift-Algorithm-note)
 - [서버 통신 함수 리팩토링하기 (GenericResponse)](https://iamcho2.github.io/2021/08/16/refactoring-to-GenericResponse)
 - [String - Apple 공식 문서 읽기 (Swift)](https://iamcho2.github.io/2021/08/15/String-Apple-docs)
 - [알고리즘을 위한 수학 공식 정리 (Swift)](https://iamcho2.github.io/2021/08/14/math-for-PS)
-- [JTAppleCalendar 캘린더 커스텀하기-1](https://iamcho2.github.io/2021/08/10/custom-calendar-with-JTAC)
-- [이미지를 global queue에서 받지 않으면 일어나는 충격적인 일](https://iamcho2.github.io/2021/08/05/fetch-image-in-global-queue)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏄🏻‍♀️ Get in touch with me
