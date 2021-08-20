@@ -24,11 +24,11 @@
 
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FontBlaster 도입하고 폰트 추가하기](https://iamcho2.github.io/2021/08/20/FontBlaster)
 - [Swift 문자, 문자열과 ASCII 코드](https://iamcho2.github.io/2021/08/19/Swift-ASCII-string-character)
 - [Swift 알고리즘 문제들을 풀면서 자주 찾게되는 것들](https://iamcho2.github.io/2021/08/18/Swift-Algorithm-note)
 - [서버 통신 함수 리팩토링하기 (GenericResponse)](https://iamcho2.github.io/2021/08/16/refactoring-to-GenericResponse)
 - [String - Apple 공식 문서 읽기 (Swift)](https://iamcho2.github.io/2021/08/15/String-Apple-docs)
-- [알고리즘을 위한 수학 공식 정리 (Swift)](https://iamcho2.github.io/2021/08/14/math-for-PS)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏄🏻‍♀️ Get in touch with me
