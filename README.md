@@ -14,7 +14,7 @@
 
 ### 🏄‍♂️ Activities  
 
-[AUSG](ausg.me) (AWSKRUG University Student Group) 2기 
+[AUSG](https://ausg.me) (AWSKRUG University Student Group) 2기 
 
 [SOPT](http://sopt.org/wp/) 22기, 23기, 24기, 27기, 28기
 
