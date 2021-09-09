@@ -24,11 +24,11 @@
 
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [코스 라이브러리 뷰 리디자인 하기](https://iamcho2.github.io/2021/09/09/course-library-view-redesign)
 - [UICollectionView MVVM 예제로 살펴보기](https://iamcho2.github.io/2021/09/08/MVVM-example-with-CollectionView)
 - [BezierPath로 dotted(dashed) 곡선 로드맵 그리기](https://iamcho2.github.io/2021/08/23/redraw-dotted-roadmap-with-bezierPath)
 - [FontBlaster 도입하고 폰트 추가하기](https://iamcho2.github.io/2021/08/20/FontBlaster)
 - [Swift 문자, 문자열과 ASCII 코드](https://iamcho2.github.io/2021/08/19/Swift-ASCII-string-character)
-- [Swift 알고리즘 문제들을 풀면서 자주 찾게되는 것들](https://iamcho2.github.io/2021/08/18/Swift-Algorithm-note)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏄🏻‍♀️ Get in touch with me
