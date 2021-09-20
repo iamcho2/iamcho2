@@ -25,10 +25,10 @@
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [UIImagePickerController](https://iamcho2.github.io/2021/09/20/UIImagePickerController)
+- [iOS 프로젝트에서 Firebase로 할 수 있는 것들은 뭐가 있을까?](https://iamcho2.github.io/2021/09/20/things-can-be-done-with-firebase)
 - [코스 라이브러리 뷰 리디자인 하기](https://iamcho2.github.io/2021/09/09/course-library-view-redesign)
 - [UICollectionView MVVM 예제로 살펴보기](https://iamcho2.github.io/2021/09/08/MVVM-example-with-CollectionView)
 - [BezierPath로 dotted(dashed) 곡선 로드맵 그리기](https://iamcho2.github.io/2021/08/23/redraw-dotted-roadmap-with-bezierPath)
-- [FontBlaster 도입하고 폰트 추가하기](https://iamcho2.github.io/2021/08/20/FontBlaster)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏄🏻‍♀️ Get in touch with me
