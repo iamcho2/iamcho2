@@ -24,11 +24,11 @@
 
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [우리 NavigationBar가 달라졌어요 (Xcode 13 update)](https://iamcho2.github.io/2021/09/25/UINavigationController-UINavigationBar-Xcode13-update)
 - [CGImage resize, crop하기](https://iamcho2.github.io/2021/09/24/CGImage-resizing-cropping)
 - [iOS 프로젝트에서 Firebase로 할 수 있는 것들은 뭐가 있을까?](https://iamcho2.github.io/2021/09/21/things-can-be-done-with-firebase)
 - [UIImagePickerController](https://iamcho2.github.io/2021/09/20/UIImagePickerController)
 - [코스 라이브러리 뷰 리디자인 하기](https://iamcho2.github.io/2021/09/09/course-library-view-redesign)
-- [UICollectionView MVVM 예제로 살펴보기](https://iamcho2.github.io/2021/09/08/MVVM-example-with-CollectionView)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏄🏻‍♀️ Get in touch with me
