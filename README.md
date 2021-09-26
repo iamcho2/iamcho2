@@ -24,11 +24,11 @@
 
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [isTranslucent troubleshooting (iOS15, Xcode13)](https://iamcho2.github.io/2021/09/26/UIBarAppearance-isTranslucent)
 - [UINavigationController, UINavigationBar 구조](https://iamcho2.github.io/2021/09/25/structure-of-UINavigationController-UINavigationBar)
 - [우리 NavigationBar가 달라졌어요 (Xcode 13 update)](https://iamcho2.github.io/2021/09/25/UINavigationController-UINavigationBar-Xcode13-update)
 - [CGImage resize, crop하기](https://iamcho2.github.io/2021/09/24/CGImage-resizing-cropping)
 - [iOS 프로젝트에서 Firebase로 할 수 있는 것들은 뭐가 있을까?](https://iamcho2.github.io/2021/09/21/things-can-be-done-with-firebase)
-- [UIImagePickerController](https://iamcho2.github.io/2021/09/20/UIImagePickerController)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏄🏻‍♀️ Get in touch with me
