@@ -25,9 +25,9 @@
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Table Header View에서 view transition 처리하기](https://iamcho2.github.io/2021/10/10/view-transition-at-tableheaderview)
-- [Swift로 효율적인 dequeue 구현하기 (포인터, 투스택 큐)](https://iamcho2.github.io/2021/10/04/Swift-dequeue)
-- [JTAppleCalendar(JTAC) 커스텀하기](https://iamcho2.github.io/2021/09/27/customizing-JTAppleCalendar-init-multiple-range)
-- [isTranslucent troubleshooting (iOS15, Xcode13)](https://iamcho2.github.io/2021/09/26/UIBarAppearance-isTranslucent)
+- [Swift로 효율적인 dequeue 구현하기 &lpar;포인터, 투스택 큐&rpar;](https://iamcho2.github.io/2021/10/04/Swift-dequeue)
+- [JTAppleCalendar&lpar;JTAC&rpar; 커스텀하기](https://iamcho2.github.io/2021/09/27/customizing-JTAppleCalendar-init-multiple-range)
+- [isTranslucent troubleshooting &lpar;iOS15, Xcode13&rpar;](https://iamcho2.github.io/2021/09/26/UIBarAppearance-isTranslucent)
 - [UINavigationController, UINavigationBar 구조](https://iamcho2.github.io/2021/09/25/structure-of-UINavigationController-UINavigationBar)
 <!-- BLOG-POST-LIST:END -->
 
